@@ -1,0 +1,11 @@
+{
+  "notebook": {
+    "name": "Golden Notebook",
+    "version": "0.1-test",
+    "status": "test"
+  },
+  "test": {
+    "purpose": "GitHub read-access test",
+    "message": "If you can read this file, the GitHub retrieval test succeeded."
+  }
+}
